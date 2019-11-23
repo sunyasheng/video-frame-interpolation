@@ -1,0 +1,12 @@
+#python3 train.py --mode evaluate --img_dir ./run_man --out_dir ./run_man_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Beanbags --out_dir ./Beanbags_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Dimetrodon --out_dir ./Dimetrodon_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Grove2 --out_dir ./Grove2_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Grove3 --out_dir ./Grove3_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Hydrangea --out_dir ./Hydrangea_out
+python3 train.py --mode evaluate --img_dir ./middlebury/MiniCooper --out_dir ./MiniCooper_out
+python3 train.py --mode evaluate --img_dir ./middlebury/RubberWhale --out_dir ./RubberWhale_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Urban2 --out_dir ./Urban2_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Urban3 --out_dir ./Urban3_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Venus --out_dir ./Venus_out
+python3 train.py --mode evaluate --img_dir ./middlebury/Walking --out_dir ./Walking_out
